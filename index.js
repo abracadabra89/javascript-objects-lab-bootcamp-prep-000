@@ -2,4 +2,6 @@ let recepie = {
   
 }
 
-updateObjectWithKeyAndValue
+function updateObjectWithKeyAndValue(object, key, value){
+  
+}
