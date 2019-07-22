@@ -1,4 +1,4 @@
-let recepie = {
+let recepies = {
   
 }
 
